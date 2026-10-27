@@ -1,0 +1,4 @@
+data/
+*:Zone.Identifier
+.ipynb_checkpoints/
+__pycache__/
