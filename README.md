@@ -22,5 +22,5 @@
   - `relieve_colombia.tif`: GeoTIFF del relieve recortado a Colombia.
 
 ## Estudiantes
-- Juan José Lopera
-- Daniel Suarez Tibaquira
+- [Juan José Lopera](https://github.com/Loperaa-Juan)
+- [Daniel Suarez Tibaquira](https://github.com/DanielSTibaquira)
