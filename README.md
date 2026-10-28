@@ -6,6 +6,7 @@
 ## Stack
 - **[GeoPandas](https://geopandas.org/):** biblioteca principal, para datos vectoriales (lectura, reproyección, uniones espaciales, recortes y exportación).
 - **[Folium](https://python-visualization.github.io/folium/):** creación de mapas web interactivos con capas, marcadores agrupados, ventanas emergentes, mapa de calor de población urbana y exportación a HTML.
+- **[Shapely](https://shapely.readthedocs.io/):** operaciones geométricas directas (`buffer`, `intersection`, `nearest_points` y predicados espaciales) para el análisis de proximidad.
 - **[Rasterio](https://rasterio.readthedocs.io/):** lectura, recorte y exportación del ráster de relieve, y conversiones entre ráster y vector.
 - **[pyproj](https://pyproj4.github.io/pyproj/):** cálculo de áreas geodésicas para justificar el sistema de coordenadas.
 - **NumPy, SciPy y Matplotlib:** cálculo numérico, filtros sobre el ráster y mapas.
