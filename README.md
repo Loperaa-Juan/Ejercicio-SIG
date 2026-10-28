@@ -14,6 +14,12 @@
 
 ## Contenido
 - `analisis_geopandas.ipynb`: notebook del análisis. Descarga los datos en `data/` y guarda los resultados en `outputs/`.
+- `outputs/`: resultados generados por el notebook.
+  - `01_area_departamentos.png` y `02_reto_densidad_urbana.png`: mapas de áreas y del reto de densidad urbana.
+  - `mapa_interactivo_folium.html`: mapa interactivo con coropleta, ríos y marcadores agrupados de ciudades.
+  - `mapa_calor_poblacion.html`: mapa de calor de la población urbana.
+  - `resultados.gpkg`: GeoPackage con las capas vectoriales del análisis.
+  - `relieve_colombia.tif`: GeoTIFF del relieve recortado a Colombia.
 
 ## Estudiantes
 - Juan José Lopera
