@@ -18,8 +18,12 @@
   - `01_area_departamentos.png` y `02_reto_densidad_urbana.png`: mapas de áreas y del reto de densidad urbana.
   - `mapa_interactivo_folium.html`: mapa interactivo con coropleta, ríos y marcadores agrupados de ciudades.
   - `mapa_calor_poblacion.html`: mapa de calor de la población urbana.
-  - `resultados.gpkg`: GeoPackage con las capas vectoriales del análisis.
-  - `relieve_colombia.tif`: GeoTIFF del relieve recortado a Colombia.
+  - `resultados.gpkg`: GeoPackage con las capas vectoriales del análisis (se genera al ejecutar el notebook; no está versionado).
+  - `relieve_colombia.tif`: GeoTIFF del relieve recortado a Colombia (se genera al ejecutar el notebook; no está versionado).
+
+## Reproducir
+1. Abrir `analisis_geopandas.ipynb` en Google Colab (o desde VS Code con la extensión de Colab).
+2. Ejecutar todas las celdas en orden. El notebook instala lo que falta con `uv`, descarga los datos de Natural Earth en `data/` y escribe los resultados en `outputs/`, incluidos `resultados.gpkg` y `relieve_colombia.tif`.
 
 ## Estudiantes
 - [Juan José Lopera Londoño](https://github.com/Loperaa-Juan)
